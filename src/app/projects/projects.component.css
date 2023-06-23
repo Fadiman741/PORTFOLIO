@@ -150,7 +150,7 @@
         margin: 5% 3%;
     }
     .occupation{
-        font-size:50px; 
+        font-size:60px; 
         margin-bottom: 20%;
     }
     .about{
@@ -159,7 +159,7 @@
         color:#6b6464 ;
     }
     .main-content h2{
-        margin-top: 40%;
+        margin-top: 25%;
      }
 }
 fa-icon{
